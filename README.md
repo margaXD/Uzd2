@@ -11,7 +11,7 @@ Studentu duomenu programa su vektoriais v0.1 versija.
 # v0.3
 1. Exception handling'as pridetas prie kodo.
 2. Sukurti papildomi .h ir .cpp failai, kuriuose laikomos funkcijos ir strukturos.
-# v0.4 versija. 
+# v0.4
 Laiko testavimas.
 1. Sudaro sarasa, nuskaito duomenis, juos surusiuoja.
 2. Parodo laika, per kuri atliko veiksmus.
